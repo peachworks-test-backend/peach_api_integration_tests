@@ -1,0 +1,9 @@
+{
+  "key": "api_integration_tests",
+  "framework": {
+    "angular": {
+      "module": "inventory",
+      "version": "1.5.0"
+    }
+  }
+}
